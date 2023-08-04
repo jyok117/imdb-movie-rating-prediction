@@ -1,14 +1,17 @@
 # imdb-movie-rating-prediction
 Audible Data Science technical challenge - Movie Rating Prediction using IMDB Datasets
 
+> Use the publicly available [IMDB Datasets](https://www.imdb.com/interfaces/) to build a model that predicts a movie’s average rating.
+>
+> [Read more](./Audible_DS_TakeHome.pdf)
+
 <a target="_blank" href="https://colab.research.google.com/github/jyok117/imdb-movie-rating-prediction/blob/main/imdb_movie_rating_prediction.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-
 ---
 
-Steps:
+**Steps**:
 1. Data Gathering
 2. Data Preprocessing
     1. Load the data
