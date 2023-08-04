@@ -32,3 +32,7 @@ Audible Data Science technical challenge - Movie Rating Prediction using IMDB Da
     3. Random Forests
     4. Random Forests (after parameter tuning)
 6. Conclusion
+    1. Who would use your model?
+    2. What might they find surprising?
+    3. How confident would you be in your model predictions?
+    4. How does it align with Audible's People's Principles?
