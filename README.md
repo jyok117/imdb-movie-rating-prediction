@@ -1,6 +1,11 @@
 # imdb-movie-rating-prediction
 Audible Data Science technical challenge - Movie Rating Prediction using IMDB Datasets
 
+<a target="_blank" href="https://colab.research.google.com/github/jyok117/imdb-movie-rating-prediction/blob/main/imdb_movie_rating_prediction.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+
 ---
 
 Steps:
